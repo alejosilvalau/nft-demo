@@ -7,7 +7,7 @@ This is a demo of an NFT project. It contains an example of a simple collectible
 - `AdvancedCollectible`: It creates a random collectible between 3 puppies
 - `SimpleCollectible`: It creates the simplest NFT, following the ERC720 standards.
 
-- [nft-demo]](#nft-demo)
+- [nft-demo](#nft-demo)
   - [Summary](#summary)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
